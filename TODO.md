@@ -14,4 +14,4 @@
 
 -Cadastrar transação(receita/despesa)
 -Cadastrar categorias
--Calc
+-Calcular total
